@@ -1,6 +1,6 @@
 # Application_sender
 [需要和website_receiver一起下载使用] 
-!!!可以直接下载 allapp_files zip 文件，而不需要其他文件!!!
+!!!可以直接下载 ALLapp_files zip 文件，而不需要其他文件!!!
 这是项目application的移动端文件。
 该项目包含了application_sender，和website_receiver，中间通过MQTT通信协议进行联调。
 低UX，这是因为这并不是最终版，而是最初发行的实验版本。其中在发送端，用户可以在文本框中输入内容，或者点击现成的内容。
